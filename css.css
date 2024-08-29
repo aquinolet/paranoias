@@ -15,7 +15,7 @@ body {
 
 /* Estilo do cabeçalho */
 header {
-    background: #333;
+    background-color:#494A20;
     color: #fff;
     padding: 10px 0;
 }
@@ -52,9 +52,9 @@ main {
 }
 
 .hero {
-    background-image: url('https://i.pinimg.com/564x/aa/9a/5b/aa9a5b450b2bbcc11713da7a0e3e3ec8.jpg'); 
+    background-image: url('IMG_7653.PNG'); 
     text-align: center;
-    padding: 50px 0;
+    padding: 100px 50px;
 }
 
 .hero-content h1 {
@@ -128,7 +128,7 @@ main {
 
 /* Estilo do rodapé */
 footer {
-    background: #333;
+    background: #9e4518;
     color: #fff;
     text-align: center;
     padding: 10px 0;
